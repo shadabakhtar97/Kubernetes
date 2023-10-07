@@ -55,3 +55,5 @@ Learn Kubernetes Deep Dive
    This will open a web browser with the Kubernetes dashboard interface.
 
 That's it! You have successfully installed Minikube and set up a single-node Kubernetes cluster on your Ubuntu laptop. You can now use `kubectl` to manage and interact with your local Kubernetes cluster, and you have the option to deploy and test applications on this cluster for development and testing purposes.
+
+### --------------------------------------------------------------------------------------------------------
