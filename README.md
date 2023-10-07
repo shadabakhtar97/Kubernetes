@@ -56,7 +56,7 @@ Learn Kubernetes Deep Dive
 
 
 ### --------------------------------------------------------------------------------------------------------
-Installing Kubernetes on-premises can be a complex process, as it involves setting up and configuring multiple components. Below is a simplified guide to help you get started with a basic Kubernetes cluster on your on-premises hardware. This guide assumes that you have a few physical or virtual machines available for creating the cluster. Please note that in production environments, you may need to adapt these steps to your specific requirements.
+### Installing Kubernetes on-premises can be a complex process, as it involves setting up and configuring multiple components. Below is a simplified guide to help you get started with a basic Kubernetes cluster on your on-premises hardware. This guide assumes that you have a few physical or virtual machines available for creating the cluster. Please note that in production environments, you may need to adapt these steps to your specific requirements.
 
 Here are the high-level steps to install Kubernetes on-premises:
 
